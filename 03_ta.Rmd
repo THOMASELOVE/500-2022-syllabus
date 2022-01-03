@@ -1,0 +1,13 @@
+# Teaching Assistant
+
+## Wyatt P. Bensken
+
+```{r Wyatt_fig, echo = FALSE, out.width = '20%'}
+knitr::include_graphics("figures/Wyatt_Bensken.jpeg")
+```
+
+Wyatt Bensken is a PhD Candidate in Epidemiology and Biostatistics in the Department of Population and Quantitative Health Sciences. Wyatt received his bachelors of science in public health from American University in Washington, DC, after which he worked as a research fellow at the National Institutes of Health in Bethesda, Maryland before joining the PhD program here in 2018. Wyatt took 431 and 432 in 2018/2019, as well as 500 in 2020. His research includes health services and population health research to identify disparities in health and health outcomes. In addition to projects in surgery, cancer, and social determinants of health, Wyatt's dissertation focuses on health disparities and multimorbidity for people with epilepsy. 
+
+Wyatt's web site is https://wyattbensken.com/.
+
+Reach Wyatt (and Dr. Love) by emailing `500-help` at `case dot edu`. He'll be happy to schedule office hours by appointment.
